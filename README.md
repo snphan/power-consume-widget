@@ -8,6 +8,9 @@ https://github.com/metalevel-tech/powerNow
 Shows the Current Discharge | Present Battery Capacity
 
 # Installation
+Please install
+
+    sudo apt install gir1.2-appindicator3-0.1
 
 Copy the powerStat.py into /bin
 
