@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=MyScript
 Comment=MyScript
-Exec=python3 /bin/power_consume_widget.py
+Exec=python3 /bin/powerStat.py
 Terminal=false
 Type=Application
 Categories=
